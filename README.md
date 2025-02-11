@@ -24,9 +24,25 @@ This repo is packed with everything needed to transform **raw listening history*
 ## Tech Stack  
 - **Python** (pandas, matplotlib, seaborn)  
 - **SQL** (PostgreSQL for deeper trend analysis)  
-- **Jupyter Notebooks** for data exploration  
+- **Jupyter Notebooks** for data exploration
+
+## 📸 Want to See It in Visuals?  
+Check out the full analysis with **charts, trends, and insights** here:  
+👉 **[My Decade Re-Wrapped] (https://kirsten-spotify-decade-rewrapped.my.canva.site/)**
 
 ## Why It Matters  
 Music isn’t just background noise—it’s **a soundtrack to our lives.** Every song carries memories, and this project **transforms that nostalgia into something tangible.**  
 
 🚀 **Let’s turn music history into data-driven storytelling!**
+
+## ⚠️ Disclaimer  
+
+This project is a **personal portfolio project** created for **data analysis and visualization purposes only**. The data used in this project comes from **my own personal Spotify listening history**, retrieved through **Spotify’s official data export feature** under **Spotify’s Privacy Policy and GDPR compliance rules**.  
+
+This project is **not affiliated, endorsed, or sponsored by Spotify** in any way. **Spotify** and **Spotify Wrapped** are trademarks of **Spotify AB**. This project does not use Spotify’s API, nor does it collect, distribute, or share user data beyond personal use.  
+
+All analysis, visualizations, and interpretations are **solely for personal exploration and educational purposes**. The goal is to demonstrate **data analysis, SQL querying, and visualization techniques** in a creative way.  
+
+**No commercial use, redistribution, or external application of this data is intended or permitted.** If you are interested in analyzing your own listening data, you can request it directly through **Spotify’s official data export tool** at [Spotify Account Privacy Settings](https://www.spotify.com/account/privacy).  
+
+For any questions or concerns, please reach out to me directly. 🚀  
